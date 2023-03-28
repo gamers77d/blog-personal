@@ -40,18 +40,18 @@
   }
   .title{
     position: absolute;
-    top: 40%;
+    bottom: 48%;
     left: 30%;
     transform: translate(-50%-50%);
   }
   .title h1{
     font-family: 'Times New Roman', Times, serif;
-    color: #fff;
+    color: white;
     font-size: 65px;
   }
   .button{
     position: absolute;
-    top: 35%;
+    top: 52%;
     left: 35%;
     transform: translate(-50%-50%);
   }
